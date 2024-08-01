@@ -13,6 +13,7 @@
 
 - *HTML*: For structuring the website content.
 - *Tailwind CSS*: For styling and ensuring responsiveness.
+- *Javascript* : To make the website interactive to the customers
 
 ## How to Use
 
